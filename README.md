@@ -1,4 +1,4 @@
-# RASD - Reliability Analysis for Structural Design
+# RASD - Reliability Analysis for Structural Design [EN-US]
 
 ## Overview
 
@@ -23,7 +23,8 @@ This library was developed as part of a **master's thesis** and aims to evaluate
 - **Sample Generation**: Users can choose between Monte Carlo and Latin Hypercube methods to generate samples based on various statistical distributions.
 
 
-# RASD - Análise de Confiabilidade para Projeto Estrutural
+
+# RASD - Análise de Confiabilidade para Projeto Estrutural [PT-BR]
 
 ## Visão Geral
 
